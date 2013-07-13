@@ -21,6 +21,9 @@ Pull requests VERY welcome!
 
 [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf)
 
+### Books
+[Books](http://en.wikipedia.org/wiki/Books) are a stable, production tested communication protocol suitable for a wide range of information services.
+
 ### buddycloud
 
 [buddycloud](http://buddycloud.com/) is a set of tools, open source software and protocols to help you build a distributed social network. All the code is on [GitHub](https://github.com/buddycloud).
@@ -44,6 +47,10 @@ Pull requests VERY welcome!
 ### Diaspora*
 
 [Diaspora*](http://diasporaproject.org/) is a free social network consisting of personal web server that implements a distributed social networking service. Diaspora* is a fun and creative community that puts you in control.
+
+### DeadC
+
+[DeadC](http://deadc.net/) is the most private way to share links on the internet without being tracked.
 
 ### Drogulus
 
@@ -108,6 +115,13 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ## M
 
+### Mixmaster
+
+[Mixmaster](http://mixmaster.sourceforge.net/) is a remailer network. It represents the second generation of remailers. Mixmaster can be used via a web sites like [Anonymouse](http://anonymouse.org/) or as a stand-alone client.
+
+### Mixminion
+[Mixminion](http://mixminion.net/) is a new remailer approach. The so-called type III remailer allows it to receive and send anonymous messages. However the development has stalled and the current software needs improvement.
+
 ### Movim
 
 [Movim](http://movim.eu/) is a decentralized open source social network based on XMPP.
@@ -124,6 +138,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ## O
 
+### OneTime (1ty)
+
+[1TY](https://1ty.me/) is "One Time Self Destructing Links For Sharing Sensitive Information"
+
 ### OpenNIC
 
 [OpenNIC Project](http://www.opennicproject.org/) is an alternative DNS provider that is open and democratic.
@@ -133,6 +151,11 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 [Osiris](http://www.osiris-sps.org/) is software for decentralized portal, managed and shared via P2P between members.
 
 ## P
+
+### P
+[P](http://ozan.io/p/) is a small JavaScript library for creating peer-to-peer applications in browsers. 
+It allows for transitive connections across peers which makes certain network topologies, such mesh networks, 
+easy to establish.
 
 ### PeerCDN
 
@@ -183,6 +206,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### Serval Project
 
 [The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.
+
+### Sneer
+[Sneer](http://sneer.me) is a free and open source sovereign computing platform. It runs on your Windows, Mac or Linux machine (like Skype or Firefox) using the Java VM. It enables you to create your personal cluster by sharing hardware resources (CPU, disk space, network bandwidth) with your friends, host your own social network, information and media, create sovereign applications and share them with others, download and run sovereign applications created by others.
+You can do all these things directly with your peers, in an autonomous, sovereign way, without depending on online service providers such as email providers, Google, Facebook, etc.
 
 ### Syndie
 
@@ -235,6 +262,11 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 ### Tribler
 
 [Tribler](https://github.com/Tribler/tribler/wiki) Aims to create a censorship-free Internet. Already deployed, used and incrementally improved for 8-years. Tribler uses an upcoming IETF Internet Standard for [video streaming](http://datatracker.ietf.org/doc/draft-ietf-ppsp-peer-protocol/) and is backward compatible with Bittorrent. Future aim is using smartphones to even bypass Internet kill switches. An early proof-of-principle [Tribler-mobile](https://play.google.com/store/apps/details?id=org.tribler.mobile) is available on the Android Market. [Key principle](http://www.foxnews.com/tech/2012/02/10/forget-megaupload-researchers-call-new-file-sharing-network-invincible/): 'the only way to take it down is to take The Internet down'. [Overview paper](http://sigmm.org/records/records1201/featured03.html).
+
+### Truecrypt
+
+[TrueCrypt] (http://www.truecrypt.org/) Free open source disk encryption software for Windows 7/Vista/XP/Mac OSX/ & Linux. Creates a virtual encrypted disk within a file and mounts it as a real disk. Encrypts an entire partition or storage device such as USB flash drive or hard drive. Encrypts a partition or drive where Windows is installed (pre-boot authentication). Encryption is automatic, real-time (on-the-fly) and transparent. Parallelization and pipelining allow data to be read and written as fast as if the drive was not encrypted. Encryption can be hardware-accelerated on modern processors. Provides plausible deniability, in case an adversary forces you to reveal the password: Hidden volume (steganography) and hidden operating system. More informartion on [documentation page](http://www.truecrypt.org/docs/) 
+
 
 ## U
 
